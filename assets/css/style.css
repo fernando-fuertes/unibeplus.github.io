@@ -1775,7 +1775,7 @@ textarea {
   .template-btn.primary-bg-5:not(:hover) {
     background-color: var(--color-primary-5);
     border-color: var(--color-primary-5);
-    -webkit-box-shadow: 0px 10px 30px 0px rgba(85, 128, 255, 0.36);
+    -webkit-box-shadow: 0px 10px 30px 0px rgba(241, 243, 248, 0.36);
     box-shadow: 0px 10px 30px 0px rgba(85, 128, 255, 0.36); }
   .template-btn.primary-bg-5:hover {
     background-color: var(--color-heading-4); }
